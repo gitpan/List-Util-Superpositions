@@ -19,11 +19,11 @@ List::Util::Superpositions - Provides 'any' and 'all' for lists
 
 =head1 Version
 
-Version 1.0
+Version 1.1
 
 =cut
 
-our $VERSION = '1.0';
+our $VERSION = '1.1';
 
 =head1 Synopsis
 
