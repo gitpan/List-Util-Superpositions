@@ -19,16 +19,16 @@ List::Util::Superpositions - Provides 'any' and 'all' for lists
 
 =head1 Version
 
-Version 1.1
+Version 1.2
 
 =cut
 
-our $VERSION = '1.1';
+our $VERSION = '1.2';
 
 =head1 Synopsis
 
 This module extends the methods provided by List::Util to offer the
-C<any() and all()> operators from L<Quantum::Superpositions> as part
+C<any()> and C<all()> operators from L<Quantum::Superpositions> as part
 of the List::Util feature set.
 
     use List::Util::Superpositions;
@@ -90,7 +90,7 @@ be notified of progress on your bug as I make changes.
 
 =head1 Copyright & License
 
-Copyright 2004 Richard Soderberg, All Rights Reserved.
+Copyright 2004, 2008 Richard Soderberg, All Rights Reserved.
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.

@@ -4,7 +4,6 @@ Makefile.PL
 MANIFEST
 META.yml			# Will be created by "make dist"
 README
-SIGNATURE			# Will be created by "cpansign -s"
 t/00.load.t
 t/10-first.t
 t/10-max.t

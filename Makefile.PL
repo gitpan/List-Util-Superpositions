@@ -13,6 +13,7 @@ WriteMakefile(
         'Test::More' => 0,
 	'List::Util' => 0,
 	'Quantum::Superpositions' => 0,
+	'Exporter::Lite' => 0,
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'List-Util-Superpositions-*' },
